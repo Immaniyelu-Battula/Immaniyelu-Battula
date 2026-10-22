@@ -1,4 +1,4 @@
-# Hi there, I'm Immaniyelu Battula 
+# Hi, I'm Immaniyelu Battula 
 
 ### Senior DevOps Engineer | Multi-Cloud | Database & Platform Engineering
 
