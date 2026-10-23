@@ -2,7 +2,7 @@
 
 ### Senior DevOps Engineer | Multi-Cloud | Database & Platform Engineering
 
-**13+ Years in IT | Cloud & DevOps | DBA | Kubernetes | Terraform Infrastructure as Code**
+**13+ Years in IT | Cloud & DevOps | DBA | Kubernetes | Terraform Infrastructure as Code|Cloud Migrations**
 
 I am an IT professional focused on cloud infrastructure, DevOps automation, database administration, and enterprise platform operations. My background combines Oracle Database and Oracle E-Business Suite administration with modern cloud-native practices, CI/CD, Infrastructure as Code, and reliability engineering.
 
