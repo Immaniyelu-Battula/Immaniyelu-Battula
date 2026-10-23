@@ -103,7 +103,7 @@ I use GitHub to share practical examples, reusable automation, infrastructure pa
 - Oracle Cloud Infrastructure 2025 Foundations Associate
 - Autonomous Database Cloud Professional
 - Microsoft Azure Administrator (AZ-104) 
-- Trained Kubernetes adminstartor 
+- Trained Kubernetes Administrator
 
 
 I continue to develop my skills in cloud-native engineering, DevSecOps, automation, platform engineering, and database reliability.
